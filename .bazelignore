@@ -1,0 +1,7 @@
+node_modules
+static-site/node_modules
+static-site/.next
+bazel-out
+bazel-bin
+bazel-testlogs
+bazel-next.js

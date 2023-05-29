@@ -1,0 +1,41 @@
+
+# dependencies
+static-site/node_modules/*
+static-site/node_modules
+static-site/.pnp
+static-site/.pnp.js
+
+# testing
+static-site/coverage
+
+# next.js
+static-site/.next
+static-site/.next/*
+static-site/out/
+
+# production
+static-site/build
+
+# misc
+static-site/.DS_Store
+static-site/*.pem
+
+# debug
+static-site/npm-debug.log*
+static-site/yarn-debug.log*
+static-site/yarn-error.log*
+
+# local env files
+static-site/.env*.local
+
+
+# typescript
+static-site/*.tsbuildinfo
+static-site/next-env.d.ts
+node_modules
+node_modules/*
+
+
+dist/*
+dist
+node_modules/.modules.yaml
