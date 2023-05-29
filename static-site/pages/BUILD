@@ -2,7 +2,7 @@ load("@aspect_rules_ts//ts:defs.bzl", "ts_project")
 
 
 ts_project(
-    name = "src",
+    name = "pages",
     resolve_json_module = True,
     tsconfig = "//:tsconfig",
     preserve_jsx = True,
